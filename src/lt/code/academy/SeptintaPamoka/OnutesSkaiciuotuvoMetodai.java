@@ -1,7 +1,6 @@
 package lt.code.academy.SeptintaPamoka;
 
 import java.util.Scanner;
-
 import static java.lang.System.out;
 
 public class OnutesSkaiciuotuvoMetodai {
