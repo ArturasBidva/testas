@@ -66,6 +66,10 @@ public class OnutesSkaiciuotuvoMetodai {
         double a = ivestis.nextDouble();
         System.out.println("Iveskite antra skaiciu");
         double b = ivestis.nextDouble();
+        if (a < 0 || b < 0) {
+            out.println("Ivedete blogus skaicius");
+            daugintiSkaicius(ivestis);
+        }
         daugintiSuma(a, b);
     }
 
