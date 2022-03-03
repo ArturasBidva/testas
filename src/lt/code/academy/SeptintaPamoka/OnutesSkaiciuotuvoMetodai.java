@@ -27,6 +27,10 @@ public class OnutesSkaiciuotuvoMetodai {
         double a = ivestis.nextDouble();
         System.out.println("Iveskite antra skaiciu");
         double b = ivestis.nextDouble();
+        if (a < 0 || b < 0) {
+            out.println("Ivedete blogus skaicius");
+            sudetiSkaicius(ivestis);
+        }
         sudetiSuma(a, b);
     }
 
@@ -40,6 +44,10 @@ public class OnutesSkaiciuotuvoMetodai {
         double a = ivestis.nextDouble();
         System.out.println("Iveskite antra skaiciu");
         double b = ivestis.nextDouble();
+        if (a < 0 || b < 0) {
+            out.println("Ivedete blogus skaicius");
+            atimintiSkaicius(ivestis);
+        }
         atimtiSuma(a, b);
     }
 
@@ -53,6 +61,10 @@ public class OnutesSkaiciuotuvoMetodai {
         double a = ivestis.nextDouble();
         System.out.println("Iveskite antra skaiciu");
         double b = ivestis.nextDouble();
+        if (a < 0 || b < 0) {
+            out.println("Ivedete blogus skaicius");
+            dalintiSkaicius(ivestis);
+        }
         dalintiSuma(a, b);
     }
 
@@ -83,6 +95,10 @@ public class OnutesSkaiciuotuvoMetodai {
         double a = ivestis.nextDouble();
         System.out.println("Iveskite antra skaiciu");
         double b = ivestis.nextDouble();
+        if (a < 0 || b < 0) {
+            out.println("Ivedete blogus skaicius");
+            kelimasLaipsniu(ivestis);
+        }
         kelimasLaipsniuSuma(a, b);
     }
 
