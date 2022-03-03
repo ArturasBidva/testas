@@ -9,7 +9,6 @@ public class OnutesSkaiciuotuvoPaleidejas {
         OnutesSkaiciuotuvoMetodai onutesSkaiciuotuvoMetodai = new OnutesSkaiciuotuvoMetodai();
         onutesSkaiciuotuvoMetodai.onutesSkaiciuotuvoPasirinkimai();
         onutesSkaiciuotuvoPaleidejas.ivestiPasirinkima(scanner);
-
     }
 
     void ivestiPasirinkima(Scanner ivestis2) {

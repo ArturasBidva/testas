@@ -21,8 +21,6 @@ public class OnutesSkaiciuotuvoMetodai {
         out.println("[3] Dalybos apskaiciavimas");
         out.println("[4] Daugybos apskaiciavimas");
         out.println("[5] Kelimas laipsniu apskaiciavimas");
-
-
     }
 
     void sudetiSkaicius(Scanner ivestis) {
