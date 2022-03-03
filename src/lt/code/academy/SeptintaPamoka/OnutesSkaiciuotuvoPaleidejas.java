@@ -13,7 +13,13 @@ public class OnutesSkaiciuotuvoPaleidejas {
 
     void ivestiPasirinkima(Scanner ivestis2) {
         OnutesSkaiciuotuvoMetodai onutesSkaiciuotuvoMetodai = new OnutesSkaiciuotuvoMetodai();
+        Scanner scanner = new Scanner(System.in);
         int pasirinkimas = ivestis2.nextInt();
+        if (pasirinkimas < 0) {
+            System.out.println("Ivedete bloga skaiciu");
+            onutesSkaiciuotuvoMetodai.onutesSkaiciuotuvoPasirinkimai();
+            ivestiPasirinkima(scanner);
+        }
         switch (pasirinkimas) {
             case 1 -> onutesSkaiciuotuvoMetodai.sudetiSkaicius(ivestis2);
             case 2 -> onutesSkaiciuotuvoMetodai.atimintiSkaicius(ivestis2);
