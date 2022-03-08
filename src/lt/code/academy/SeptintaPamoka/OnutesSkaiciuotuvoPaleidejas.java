@@ -2,12 +2,14 @@ package lt.code.academy.SeptintaPamoka;
 
 import java.util.Scanner;
 
+import static java.lang.System.out;
+
 public class OnutesSkaiciuotuvoPaleidejas {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         OnutesSkaiciuotuvoPaleidejas onutesSkaiciuotuvoPaleidejas = new OnutesSkaiciuotuvoPaleidejas();
         OnutesSkaiciuotuvoMetodai onutesSkaiciuotuvoMetodai = new OnutesSkaiciuotuvoMetodai();
-        onutesSkaiciuotuvoMetodai.onutesSkaiciuotuvoPasirinkimai();
+        onutesSkaiciuotuvoMetodai.pradetiPrograma();
         onutesSkaiciuotuvoPaleidejas.ivestiPasirinkima(scanner);
     }
 
@@ -16,7 +18,7 @@ public class OnutesSkaiciuotuvoPaleidejas {
         Scanner scanner = new Scanner(System.in);
         int pasirinkimas = ivestis2.nextInt();
         if (pasirinkimas < 0) {
-            System.out.println("Ivedete bloga skaiciu");
+            out.println("Ivedete bloga skaiciu");
             onutesSkaiciuotuvoMetodai.onutesSkaiciuotuvoPasirinkimai();
             ivestiPasirinkima(scanner);
         }

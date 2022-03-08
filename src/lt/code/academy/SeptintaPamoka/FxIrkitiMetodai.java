@@ -4,20 +4,18 @@ import java.util.Scanner;
 
 import static java.lang.System.out;
 
-public class CheckMonth {
-    OnutesSkaiciuotuvoPaleidejas onutesSkaiciuotuvoPaleidejas = new OnutesSkaiciuotuvoPaleidejas();
+public class FxIrkitiMetodai {
+
     public static void main(String[] args) {
+        FxIrkitiMetodai fxIrkitiMetodai = new FxIrkitiMetodai();
         Scanner scanner = new Scanner(System.in);
-        CheckMonth checkmonth = new CheckMonth();
-        //equalOrNotEqual();
-        //findTheString("as esu labas");
-        int ivestis = scanner.nextInt();
-        checkmonth.fxFunkcija(ivestis);
-
-
+        fxIrkitiMetodai.equalOrNotEqual();
+        fxIrkitiMetodai.findTheString("labas, mano vardas Arturas.");
+        fxIrkitiMetodai.fxFunkcija(scanner);
     }
 
-    public static void equalOrNotEqual() {
+    void equalOrNotEqual() {
+        out.println("Iveskite skaiciu ir programa pasakys ar skaicius lyginis ar ne");
         Scanner in = new Scanner(System.in);
         int b = in.nextInt();
         if ((b % 2) == 0) {
@@ -27,17 +25,20 @@ public class CheckMonth {
         }
     }
 
-    public static boolean findTheString(String labas) {
+    boolean findTheString(String labas) {
         out.println("Paziurekime ar yra zodis 'labas' jusu sakinyje!");
         if (labas.contains("labas")) {
             out.println("Radau labas!");
             return true;
+        } else {
+            out.println("Nera labas :(");
+            return false;
         }
-        out.println("Nera labas :(");
-        return false;
     }
 
-    void fxFunkcija(int x) {
+    void fxFunkcija(Scanner ivestis) {
+        out.println("(fx)Funkcija , iveskite X ir pagal tai gausite atsakyma");
+        int x = ivestis.nextInt();
         if (x > 0) {
             int suma = (2 * x) + 8;
             out.printf("2x%s+8=%s\n", x, suma);

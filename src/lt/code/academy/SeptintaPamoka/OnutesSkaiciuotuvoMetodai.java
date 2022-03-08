@@ -6,7 +6,7 @@ import static java.lang.System.out;
 public class OnutesSkaiciuotuvoMetodai {
     OnutesSkaiciuotuvoPaleidejas onutesSkaiciuotuvoPaleidejas = new OnutesSkaiciuotuvoPaleidejas();
 
-    public void pradetiPrograma() {
+    void pradetiPrograma() {
         Scanner ivestis = new Scanner(System.in);
         while (true) {
             onutesSkaiciuotuvoPasirinkimai();
