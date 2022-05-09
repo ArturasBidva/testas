@@ -1,0 +1,15 @@
+Kokia yra Lietuvos sostine?, 1. Jonava, 2. Kaunas, 3. Vilnius, 4. Taurage,3;
+ Kada paskelbta Lietuvos nepriklausomybe?, 1. 1922, 2. 1932, 3. 1940., 4. 1918,4;
+ Kada ivyko Zalgirio musis?, 1. 1410, 2. 1423, 3. 1473, 4. 1525,1;
+ Pirmasis lietuvos prezidentas?, 1. Dalia Grybauskaite, 2. Algirdas Baranauskas, 3. Antanas Smetona, 4. Juozas Balandis,3;
+ Kada buvo parasytas Lietuvos himnas?, 1. 1912, 2. 1898, 3. 1899, 4. 1902,2;
+ Lietuvos himno autorius?, 1. Juozas Erlickas, 2. Adomas Mickevicius, 3. Vyte Nemunelis, 4. Vincas Balsys,3;
+ Is kokio zodzio kilo Lietuvos vardas?, 1. Lietus, 2. Lietava, 3. Lieptas, 4. Lentvaris,2;
+ Koks yra Lietuvos nacionalinio medzio pavadinimas?, 1. Egle, 2. Berzas ,3. Azuolas ,4. Pusis,3;
+ Kokia gele yra nacionaline Lietuvos gele?, 1. Roze, 2. Piene , 3. Ruta , 4. Ramune,3;
+ Kas ikure Traku pili?, 1. Kunigaistis Jogaila, 2. Kunigaistis Vytautas Didysis, 3. Karalius Mindaugas , 4. Karalius Saugirdas,2;
+ Koks ezeras Lietuvoje yra giliausias?, 1. Sartai, 2. Tauragnas, 3. Vistytis, 4. Asveja,2;
+ Pirmoji valstybe pripazinusi Lietuvos nepriklausomybe?, 1. Rusija, 2. Latvija , 3. Prancuzija, 4. Vokietija,4;
+ Lietuvos steigiamasis seimas susirinko?, 1. 1918m, 2. 1920m, 3. 1922m, 4. 1923m,2;
+ Steigiamojo seimo pirmininkas ejes prezidento pareigas?, 1. Aleksandras Stulginskis,2. Gabriele Petkevicaite-Bite, 3. Jonas Vileisis, 4. Antanas Smetona,1;
+ Nacionalines valiutos - lito istatymas priimtas, 1. 1920m, 2. 1922m, 3. 1924m , 4. 1923m,2;

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 0,
+    "question": "Kokia yra Lietuvos sostine?",
+    "answers": [
+      "Jonava",
+      "Vilnius",
+      "Kaunas",
+      "Kedainiai"
+    ],
+    "rightAnswer": 2
+  },
+  {
+    "id": 1,
+    "question": "Kada paskelbta Lietuvos nepriklausomybe?",
+    "answers": [
+      "1920",
+      "1995",
+      "1888",
+      "1935"
+    ],
+    "rightAnswer": 3
+  },
+  {
+    "id": 71360,
+    "question": "What is Among Us?",
+    "answers": [
+      "A game"
+    ],
+    "rightAnswer": null
+  },
+  {
+    "id": 2,
+    "question": "What is amonguss?",
+    "answers": [],
+    "rightAnswer": null
+  },
+  {
+    "id": 20226,
+    "question": "What is Among Us?",
+    "answers": [],
+    "rightAnswer": null
+  },
+  {
+    "id": 4,
+    "question": "Kada buvo parasytas Lietuvos himnas?",
+    "answers": [
+      "It is AmongUs",
+      "It is AmongUs",
+      "It is not AmongUs",
+      " have no idea"
+    ],
+    "rightAnswer": 1
+  },
+  {
+    "id": 5,
+    "question": "Lietuvos himno autorius?",
+    "answers": [
+      "It is AmongUs",
+      "It is AmongUs",
+      "It is not AmongUs",
+      " have no idea"
+    ],
+    "rightAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "What is Among Us?",
+    "answers": [],
+    "rightAnswer": null
+  },
+  {
+    "id": 16774,
+    "question": "What is Among Us?",
+    "answers": [],
+    "rightAnswer": null
+  },
+  {
+    "id": 7,
+    "question": "Koks yra Lietuvos nacionalinio medzio pavadinimas?",
+    "answers": [
+      "ZZ",
+      "vv",
+      "bb",
+      "cc"
+    ],
+    "rightAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "Kokia gele yra nacionaline Lietuvos gele?",
+    "answers": [
+      "ZZ",
+      "vv",
+      "bb",
+      "cc"
+    ],
+    "rightAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "What is amongus?",
+    "answers": [
+      "",
+      "Esu mldc",
+      "Kietas",
+      "Naujas",
+      "Kazkas"
+    ],
+    "rightAnswer": null
+  },
+  {
+    "id": 71819,
+    "question": "Kas yra blet",
+    "answers": [
+      "Sveikas gyvas"
+    ],
+    "rightAnswer": null
+  },
+  {
+    "id": 11,
+    "question": "Pirmoji valstybe pripazinusi Lietuvos nepriklausomybe?",
+    "answers": [
+      "It is AmongUs",
+      "It is AmongUs",
+      "It is not AmongUs",
+      " have no idea"
+    ],
+    "rightAnswer": null
+  },
+  {
+    "id": 12,
+    "question": "Lietuvos steigiamasis seimas susirinko?",
+    "answers": [
+      "It is AmongUs",
+      "It is AmongUs",
+      "It is not AmongUs",
+      " have no idea"
+    ],
+    "rightAnswer": 2
+  }
+]
